@@ -1,5 +1,6 @@
 # SlackUpJenkins
-Slack integration in Jenkins to remotely invoke Jenkins jobs from a Slack channel
+Slack integration in Jenkins to remotely invoke Jenkins jobs from a Slack channel.
+For a full version of this document, including images, please refer to the pdf file available at this same repository.
 
 **Author:** Marco Da Pieve
 
